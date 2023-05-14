@@ -96,13 +96,31 @@ main{
     background-color: #df67ddfb;
 }
 .fogo{
-    background-color: #ee8130;
+    background-color: #F25A39;
 }
 .agua{
-    background-color: #6390f0;
+    background-color: #09BDC9;
 }
 .inseto{
     background-color: #a6b91a;
+}
+.terra{
+    background-color: #F29022;
+}
+.rocha{
+    background-color: #8D830D;
+}
+.aço{
+    background-color: #CFCBCB;
+}
+.voador{
+    background-color: #40969B;
+}
+.dragao{
+    background-color: #6390f0;
+}
+.normal{
+    background-color: #A29D9D; 
 }
 main .descricao{
     max-height: 80px;
